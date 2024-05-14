@@ -60,9 +60,9 @@ do
     send_money
     sleep $((24 * 60 * 60))
 done
-
-
+```
+## Run
+```
 chmod +x script.sh
-
-
 ./script.sh
+```
